@@ -9,7 +9,8 @@ org_summary: > # Enter your summary on the next line. Be sure to indent by two s
   We use state of the art machine learning to help people communicate with the over 72 million deaf or hard of hearing people that use sign language. 
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   Sign language plays a crucial role in fostering communication and inclusivity for the global deaf and hard-of-hearing community. As a distinct and expressive form of communication, sign language enables individuals who may not be able to hear or speak to convey their thoughts, emotions, and ideas effectively. Its significance lies not only in providing a means of communication but also in promoting cultural identity and community cohesion among deaf individuals. Just like spoken languages, sign languages are diverse and vary across different regions and communities, reflecting the rich cultural and linguistic diversity within the deaf world. Recognizing and embracing the importance of sign language contributes to the creation of an inclusive society where everyone, regardless of their hearing ability, can participate fully in various aspects of life, from education and employment to social interactions.
-  One of the most natural and direct ways for deaf and hearing individuals to communicate is through sign language.  We're here to help make learning sign language easier.
+
+One of the most natural and direct ways for deaf and hearing individuals to communicate is through sign language.  We're here to help make learning sign language easier and faster.
 
 
   
@@ -18,11 +19,11 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 #Non US-address support coming soon
 org_general_email_inbox: syap47@gmail.com
 org_street_address:  #Please include suite number on the line below
-org_address_suite: 3225 McLeod Drive, Suite 100
-org_city: Las Vegas
-org_state: NV
+org_address_suite: 23 Corporate Plaza Drive, Suite 150-88
+org_city: Newport Beach
+org_state: CA
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  89121
+  92660
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   
 
@@ -51,7 +52,7 @@ publish: false
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: two
+color_scheme: one
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
