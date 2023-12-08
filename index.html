@@ -75,13 +75,13 @@ layout: default
 <!-- ******JOIN****** -->
 <section id="join" class="join section">
   <div class="container text-center">
-    <h2 class="title">Join Us</h2>
+    <h2 class="title">Interested in knowing more?</h2>
     <div class="row">
       <div class="col-sm-5 col-sm-offset-1 text-right text-right-sm">
-        <h1 class="join-us-intro">We Need Your Voice.<br> Join Us!</h1>
+        <h1 class="join-us-intro">We <br> Let's get in touch!</h1>
       </div>
       <div class="col-sm-5 text-left text-left-sm">
-        <p>Sign up to receive updates, progress reports and ways to get involved. We're excited to have you join our amazing community!</p>
+        <p>Sign up to receive updates, progress reports and ways to get involved in our projects. </p>
         {% if site.tinyletter_username %}
         <p><em>No spam. Just the occasional update.</em></p>
         <div class="row">
@@ -151,10 +151,11 @@ layout: default
     <div class="donate-inner">
       <h2 class="title text-center">Donate</h2>
       <div class="info">
-        <p><strong>Become a donor today.</strong><br>As a small grassroots organization, know that every dollar will have an immense impact on our ability to continue working towards our mission.</p>
+        <p><strong>Become a donor today.</strong><br>Want to help us join the hearing and deaf communities? </p>
         {% if site.donorbox_campaign_name %}
           <div class="donorbox text-center">
-            <iframe src="https://donorbox.org/embed/{{ site.donorbox_campaign_name }}" height="600px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" name="donorbox" frameborder="0" scrolling="no"></iframe>
+            <!--<iframe src="https://donorbox.org/embed/{{ site.donorbox_campaign_name }}" height="600px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" name="donorbox" frameborder="0" scrolling="no"></iframe> -->
+	    <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe src="https://donorbox.org/embed/general-donation-426" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important"></iframe>
           </div>
           {% if site.is_501c3 == true %}
             <p>Contributions are tax deductible to the extent permitted by law.<br>{{ site.org_name }} is a 501(c)(3) organization.</p>
