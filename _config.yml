@@ -6,9 +6,13 @@
 #REQUIRED
 org_name: Sign Well
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  We use state of the art machine learning to help people learn sign language.
+  We use state of the art machine learning to help people communicate with the over 72 million deaf or hard of hearing people that use sign language. 
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Over 72 million deaf or hard-of-hearing people communicate via sign language.  Wouldn't you like to be able to communicate with them?
+  Sign language plays a crucial role in fostering communication and inclusivity for the global deaf and hard-of-hearing community. As a distinct and expressive form of communication, sign language enables individuals who may not be able to hear or speak to convey their thoughts, emotions, and ideas effectively. Its significance lies not only in providing a means of communication but also in promoting cultural identity and community cohesion among deaf individuals. Just like spoken languages, sign languages are diverse and vary across different regions and communities, reflecting the rich cultural and linguistic diversity within the deaf world. Recognizing and embracing the importance of sign language contributes to the creation of an inclusive society where everyone, regardless of their hearing ability, can participate fully in various aspects of life, from education and employment to social interactions.
+  One of the most natural and direct ways for deaf and hearing individuals to communicate is through sign language.  We're here to help make learning sign language easier.
+
+
+  
 
 #OPTIONAL
 #Non US-address support coming soon
