@@ -6,19 +6,19 @@
 #REQUIRED
 org_name: Sign Well
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  We use state of the art machine learning to help people learn sign language.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Sign Well is a non-profit dedicated to using the best machine learning capabilities to improve the learning of sign languages all over the world.
+  Over 72 million deaf or hard-of-hearing people communicate via sign language.  Wouldn't you like to be able to communicate with them?
 
 #OPTIONAL
 #Non US-address support coming soon
 org_general_email_inbox: syap47@gmail.com
 org_street_address:  #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_address_suite: 3225 McLeod Drive, Suite 100
+org_city: Las Vegas
+org_state: NV
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  89121
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   
 
@@ -47,7 +47,7 @@ publish: false
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: Two
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
